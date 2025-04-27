@@ -4,6 +4,7 @@
     <title>Pueblos del mundo</title>
     <link>https://www.pueblosmundo.com/</link>
     <description>Explorando comunidades fascinantes</description>
+    <atom:link href="http://www.puebloz.mundo.com/pueblos.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
     <copyright>CC BY-SA 3.0</copyright>
     <pubDate>Fri, 25 Apr 2025 18:38:42 GMT</pubDate>
