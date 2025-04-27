@@ -2,287 +2,61 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Pueblos del mundo</title>
-    <link>http://www.pueblosmundo.com</link>
+    <link>https://www.pueblosmundo.com/</link>
     <description>Explorando comunidades fascinantes</description>
+    <atom:link href="http://www.puebloz.mundo.com/pueblos.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
     <copyright>CC BY-SA 3.0</copyright>
     <pubDate>Fri, 25 Apr 2025 18:38:42 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Apr 2025 16:44:40 GMT</lastBuildDate>
-    <category domain="http://www.puebloz.mundo.com">Web</category>
+    <lastBuildDate>Sun, 27 Apr 2025 17:27:24 GMT</lastBuildDate>
+    <category>Tourism</category>
     <generator>Absolute RSS Editor</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <textInput>
       <title>Pueblos del mundo</title>
       <description>Pueblos del Mundo</description>
       <name>Pueblos_Del_Mundo</name>
-      <link>http://www.puebloz.mundo.com</link>
+      <link>http://www.puebloz.mundo.com/pueblos.xml</link>
     </textInput>
     <item>
-      <title>Gitanos</title>
-      <link>http://www.puebloz_mundo.com/gitanos/2025/04/27/gitanos.htm</link>
-      <description>Etimología
-El término «gitano» es mayoritario en castellano y se recogen significados positivos, aunque también connotaciones peyorativas.[46]​ Es el término que los propios gitanos usan para autodenominarse en castellano. En el caso de España puede emplearse igualmente el vocablo «calé» para referirse a los gitanos ibéricos y «caló» para referirse a la variante lingüística propia. Otro sinónimo utilizado es «cañí».[46]​
-
-La palabra «gitano» procede de «egiptano», porque en el siglo XV se pensaba que los gitanos procedían de Egipto.[42]​ Cuando llegaron a Europa, muchos grupos de gitanos se presentaban a sí mismos como «nobles egipcianos»; así, en 1425, dos romaníes solicitaron un salvoconducto al rey Juan II de Aragón, en el cual se hacían llamar «condes del Egipto Menor». La palabra «calé» parece proceder del indostaní kâlâ, que significa «negro».[cita requerida]
-
-Dado que se pueden encontrar en multitud de países de todo el mundo, existen una gran variedad de etnónimos. Los principales son los siguientes:
-
-Cíngaro o zíngaro: vocablo derivado probablemente del griego ἀθίγγανος (azínganos, literalmente 'intocable'), nombre atribuido a una secta maniquea procedente de Frigia, aunque hay lingüistas que la consideran una falsa etimología.[¿quién?] De este término provienen los derivados en alemán Zigeuner, en húngaro cigány. En México les llaman en algunas zonas húngaros, en italiano zingaro, en idioma turco cingene y en portugués y gallego cigano. En francés se usa con doble ortografía tzigane o tsigane. Algunos romaníes prefieren la forma sin z, porque esta letra les recuerda al tatuaje empleado por los nazis en los campos de concentración para identificarlos, a pesar de lo cual es lo recomendado por la Academia Francesa.[cita requerida]
-Bohemio: término utilizado en francés (bohémiens o boumians) por haber entrado los gitanos europeos durante el siglo XV mediante un salvoconducto del rey de Bohemia.
-Orígenes y migración
-Artículo principal: Historia del pueblo gitano
-Durante siglos los orígenes del pueblo gitano han sido objeto de diversas teorías y especulaciones sin bases sólidas, entre otras cosas porque su cultura es fundamentalmente ágrafa y no ha conservado registro histórico. La teoría más extendida afirma, basándose en análisis genéticos y lingüísticos y a la vista de los documentos conservados, que proceden de la región del Rayastán, en el norte de la India.[43]​[47]​[48]​[49]​
-
-Los datos lingüísticos apuntan a que los antepasados de los gitanos vivieron en el noroeste de la India, antes de migrar a Occidente pasando por la costa sur del mar Caspio.[50]​ Se desconoce si con anterioridad habían migrado desde otro lugar aún más remoto. También se ignoran las causas exactas de su migración hacia el oeste, que se produjo en torno al siglo XI. Pero algunos autores sugieren que la salida de India pudo iniciarse antes, hacia el siglo VI, y prosiguió hasta el siglo XI. Tras una estancia en el norte de Persia, se desplazaron nuevamente hasta Asia Menor, donde se asentaron durante el siglo XIV. La inestabilidad política provocó el primer éxodo fielmente documentado hacia el oeste y el sur. Una rama del pueblo gitano se internó en la Europa Central y otra ingresó en el norte de África. La entrada de los gitanos en Europa se documenta a partir de los primeros años del siglo XV. A fines de ese siglo la ruta del sur y la del norte ya se habrían unido en algún punto del sur de Europa (en Francia o España).
-
-
-Gitanas en Alemania (1924).
-Sin embargo, continúa siendo un desafío polémico para la antropología, la historia y la sociología explicar sus orígenes, su evolución en el tiempo y sus estrategias de supervivencia en sociedades dentro de las cuales siempre son minoritarios, a pesar del mestizaje y de ser históricamente marginados.
-
-Los gitanos se vieron severamente perseguidos e incluso exterminados durante el siglo XX.[51]​ La inestabilidad política y económica del este de Europa provocó, especialmente a fines del siglo, otra nueva movilización en masa de la comunidad gitana, todavía en curso, esta vez en dirección a la Europa central y occidental.
-
-Grupos y subgrupos
-
-Diferentes grupos gitanos en la Eurasia occidental.
-     Calós
-     Sinti-Manouches
-     Kalderash
-     Doms
-Los propios romaníes se agrupan en diferentes divisiones, en función de diferencias territoriales, dialectales y culturales.[52]​ Las cinco grandes ramas gitanas son:
-
-Calós, en el norte de África, la península ibérica y el sur de Francia.[cita requerida]
-Sintis o Manouches, que se desplazan por la frontera francoalemana y especialmente por Alsacia.
-Kalderash, propios de los Balcanes y que nutrieron los grupos de emigrantes a América.
-Doms, se encuentran dispersos en Asia occidental, África del norte, el Cáucaso, Asia central, la región de Anatolia oriental y partes del subcontinente indio
-Romanichels, (Romanichales), del Reino Unido y otros países de habla inglesa como Estados Unidos
-Cada una de estas ramas puede subdividirse en dos o más subgrupos en virtud de su ocupación o el territorio de origen. Así, se encuentran los siguientes términos: Machvaya (Machwaya), Lovari, Churari, Sinti, Rudari, Boyash, Ludar, Luri, Xoraxai, Ungaritza, Bashaldé, Ursari y Romungro.
-
-Cultura
-Artículo principal: Cultura gitana
-Rasgos de identidad
-Estudios demográficos muestran que la máxima ambición de los gitanos es la inclusión social sin pérdida de la cultura propia.[53]​
-
-Sus características específicas —tales como las formas de organización familiar y comunitaria o el diálogo— hacen posible el mantenimiento de una identidad que ya está siendo reconocida por aquellas mismas estructuras. En España el idioma propio ha ido perdiendo importancia con el tiempo, pasándose a usar gradualmente la gramática castellana con rasgos propios (la variedad lingüística denominada caló).[54]​
-
-El valor de la palabra y el respeto mutuo (en especial a las personas mayores) son dos rasgos esenciales que comparten los gitanos.[55]​
-
-Idioma romaní
-Artículo principal: Idioma romaní
-La lengua gitana tradicional es el romaní, un idioma indoeuropeo[56]​[57]​ surgido del sánscrito.
-
-
-Casa de gitanos de Huedin (Rumania).
-Un estudio del año 2003, publicado por la revista Nature,[58]​ sugiere que el romaní está relacionado con el cingalés, todavía hoy hablado en Sri Lanka. En la actualidad, sin embargo, la mayoría de los gitanos del mundo habla la lengua del territorio en que habita, adaptándola mediante el fenómeno llamado pidgin. Según algunas autoridades[59]​ las lenguas gitanas se agrupan de la siguiente manera:
-
-grupo del Danubio: representado por los kalderash, lovara y curara;
-grupo balcánico occidental: que comprende a istrios, eslovenos, javates y arlija;
-grupo sinto: eftavagarja, kranarja, krasarja y eslovaco;
-grupos rom: de Italia central y meridional;
-grupo británico: romaní galés (ya desaparecido) y anglo-romaní;
-grupo fínico;
-grupo greco-turco o greco-romaní.
-grupo ibérico: caló o hispano-romaní, que es una transposición léxica del vocabulario romaní sobre la sintaxis y la gramática del castellano. Se habla en la península ibérica por la población gitana. Erromintxela es el nombre que recibe el habla de los gitanos del País Vasco (buhameak o ijitoak). Es una variante del idioma romaní, con grandes influencias del euskera.
-Además, este idioma recoge en sí mismo el propio itinerario irregular de los gitanos durante los últimos mil años. Se pueden encontrar restos de vocabulario armenio (grast, caballo), persa (ambrol, pera; angustr, anillo), eslavo (ledome, congelado) y griego (drom, camino; kokalo, hueso), así como estructuras sintácticas de dialectos eslavos, del húngaro, del rumano, del alemán o del castellano.
-
-Religión
-
-Dos mujeres romaníes cristianas ortodoxas en Cluj-Napoca, Rumanía
-La mayoría de los gitanos son cristianos,[60]​ pero muchos son musulmanes;[61]​ algunos conservaron su antigua fe del hinduismo de su patria original de la India, mientras que otros tienen su propia religión y organización política. En partes del sudeste de Europa, particularmente en Bulgaria, algunos gitanos que son musulmanes se identifican como turcos étnicos, y a lo largo de generaciones han adoptado el idioma turco.[62]​ El budismo Theravada influenciado por el movimiento budista Dalit se ha vuelto popular en los últimos tiempos entre los gitanos húngaros.
-
-Algunos gitanos practican la brujería y la quiromancia.[63]​
-
-Creencias
-Los gitanos de la actualidad a menudo adoptaban el cristianismo o el islam, dependiendo de cuál era la religión dominante en las regiones por las que habían migrado.[64]​ Es probable que la adhesión a diferentes religiones impidiera que las familias contrajeran matrimonios mixtos.[65]​ En Europa del Este, la mayoría de los gitanos son cristianos ortodoxos, musulmanes o católicos. En Bulgaria, Grecia, Moldavia, Rumania y Serbia, la mayoría de los habitantes gitanos son cristianos ortodoxos. En Albania, Bosnia y Herzegovina, Montenegro, Macedonia del Norte y Kosovo, la mayoría son musulmanes. En Croacia, la República Checa, Hungría, Polonia, Eslovenia y Eslovaquia, la mayoría son católicos. En Europa Occidental, la mayoría de los gitanos son católicos o protestantes. En Crimea y países de Oriente Medio como Turquía, Egipto, Irak e Irán, la mayoría son musulmanes. En los Estados Unidos, la mayoría de los gitanos se adhieren a alguna rama del cristianismo.[66]​
-
-Deidades y santos
-
-Ceferino Giménez Malla, el primer beato de origen gitano
-El beato Ceferino Giménez Malla es considerado recientemente un patrono de los gitanos en el catolicismo romano.[67]​ Santa Sara o Sara Kali, también ha sido venerada como santa patrona en su santuario en Saintes-Maries-de-la-Mer, Francia.[68]​ Desde principios del siglo XXI, se entiende que Sara Kali es de hecho la diosa Kali, una deidad hindú traída de la India por los antepasados refugiados de los gitanos; cuando los gitanos se cristianizaron, fue absorbida de manera sincrética y venerada como una santa.
-
-Hoy en día, cada vez más se considera a Santa Sara como «una diosa gitana, protectora de los gitanos» y «un vínculo indiscutible con la Madre India».[69]​[70]​
-
-Gitanos en España
-Artículo principal: Historia del pueblo gitano en España
-Llegada a España
-
-Pintura de una familia gitana en España.
-Los primeros documentos de la entrada de los gitanos en la península ibérica datan del siglo XV, 12 de enero de 1425.[71]​ Las relaciones entre la población local y los gitanos fueron en general buenas durante el siglo XV.[72]​ Sin embargo, a partir de 1469, con la llegada de los Reyes Católicos al trono, la situación cambió del todo, presumiblemente a causa de la búsqueda de la homogeneidad cultural en España.[73]​[74]​ Las autoridades dieron a los gitanos un plazo de dos meses para que tomaran un domicilio fijo, adoptaran un oficio y abandonasen su forma de vestir, sus costumbres y su idioma, bajo pena de expulsión o esclavitud. Se buscaba la unificación de los súbditos en toda la Península, siendo el ideal al alcanzar la centralización del poder político, la existencia de una única religión, una única lengua, una única cultura y, por consiguiente, una única manera de ser. De tal manera, las Cortes de Castilla de 1594 emitieron un mandato tendente a separar a los «gitanos de las gitanas, a fin de obtener la extinción de la raza»,[72]​ vaticinando la política de las prácticas de esterilización que seguirían otros monarcas europeos de la Edad Moderna. Antes, en la Navidad de 1571, se había producido una primera redada contra gitanos varones[75]​ y, posteriormente, aunque se desechó en 1611 la idea de expulsar a los gitanos de los territorios peninsulares de la corona, en 1633 se promulgó una nueva pragmática, por la que se negó a los gitanos el carácter de nación y se prohibió incluso el uso del término gitano en el reino. Poco después, en 1639, se volvió a organizar una nueva redada de gitanos varones con el fin de destinarlos a galeras para hacer frente a la campaña de Cataluña.[76]​
-
-La Gran Redada
-
-Jóvenes gitanos, obra de William-Adolphe Bouguereau.
-Artículo principal: Gran Redada
-Un acontecimiento que ha sido escasamente estudiado por los historiadores es la Gran Redada de 1749, también conocida como Prisión general de Gitanos, una operación autorizada por el rey de España Fernando VI y organizada por el Consejo de Castilla a través de su presidente Vázquez de Tablada y del marqués de la Ensenada, que se inició de manera sorpresiva y sincronizada en todo el territorio español el miércoles 31 de agosto de 1749, con el objetivo inicial de arrestar a todas las personas gitanas y expulsarlas de los territorios peninsulares.[77]​ Sin embargo, la medida no llegó a buen fin, adoptándose el proyecto encaminado a extinguir la etnia gitana a través de separar físicamente hombres y mujeres, dándoles destinos útiles en los que emplearlos, en un encierro que había de durar hasta el fin de sus días.[78]​ Las mujeres quedarían recluidas en casas de misericordia, como la de Nuestra Señora de Gracia de Zaragoza,[79]​ en tanto que los hombres lo serían en los arsenales. Finalmente, fueron puestos en libertad en junio de 1765 los gitanos supervivientes que se hallaban aún retenidos en estos complejos militares.[80]​
-
-Migraciones a partir del siglo XVIII
-Véase también: Persecución de la etnia gitana
-La situación de persecución, junto a todas las leyes y pragmáticas que los discriminaban,[51]​ así como a causa del racismo y xenofobia, acentuó el carácter itinerante de las personas gitanas.[81]​ Cerradas las puertas a la América española, estas sólo se abrieron tras la promulgación de la pragmática de 1783,[82]​ produciéndose a lo largo del siglo XIX una segunda migración masiva de gitanos hacia Europa y América, aprovechando las rutas europeas hacia el nuevo continente.
-
-Siglo XX
-Véase también: Racismo en España § Los gitanos.
-
-«Entre gitanos» por Huertas (Blanco y Negro, 1901)
-La discriminación legal hacia los gitanos[83]​ puede observarse en pleno siglo XX, más precisamente en los artículos 4 y 5 del Reglamento de la Guardia Civil de 1943, donde se especifica que los gitanos debían ser vigilados de forma especial.[84]​
-
-Nomadismo
-Un informe del Ministerio de Sanidad, Servicios Sociales e Igualdad[85]​ afirma que actualmente la mayoría de la población romaní-gitana está sedentarizada. Se distribuyen de manera desigual por todo el territorio español, residiendo, particularmente, en las grandes ciudades como Madrid, Barcelona, Sevilla, Granada, Málaga, Valencia, Zaragoza y Murcia; con una mayor concentración en las comunidades autónomas de Andalucía, Comunidad Valenciana y Cataluña. Asimismo afirma que la conjunción de factores históricos, sumados a otros derivados de los rápidos procesos de cambio social, determina que la población española, por su origen étnico y su diferencia cultural, en muchos casos, siga siendo aún objeto de discriminación y rechazo.
-
-La profesora Teresa San Román[86]​ ha estudiado las diferentes medidas legislativas promulgadas por las autoridades españolas y ha comprobado cómo existió desde el principio una contradicción interna en la lógica de esas disposiciones: «La tendencia a la asimilación durante el siglo XVII y la primera mitad del XVIII es creciente, pero se limitaban los lugares donde poder asentarse, se restringen los oficios…». Los legalmente avecindados eran expulsados una y otra vez, y la lógica de sedentarización forzosa/expulsión se sucederá en todos los países y en todas las épocas.
-
-La socióloga María Helena Sánchez[87]​ indica que los castigos hacia la comunidad gitana en la antigüedad recaían tradicionalmente sobre las poblaciones sedentarizadas, lo que hacía poco atractivo el asentamiento. Al mismo tiempo, la restricción en el ejercicio de oficios conllevaba el ejercicio de profesiones itinerantes y estacionales.
-
-Población
-
-Porcentaje de gitanos en Europa.
-Proporción de población gitana por país[88]​[8]​
-País		Porcentaje
-Bulgaria	
-  
-10.33 %
-Macedonia del Norte	
-  
-9.59 %
-Eslovaquia	
-  
-9.17 %
-Rumania	
-  
-8.32 %
-Serbia	
-  
-8.18 %
-Hungría	
-  
-7.05 %
-Albania	
-  
-5.06 %
-Turquía	
-  
-3.83 %
-Montenegro	
-  
-2.95 %
-Moldavia	
-  
-2.49 %
-Grecia	
-  
-2.47 %
-República Checa	
-  
-1.96 %
-España	
-  
-1.57 %
-Son una comunidad muy diversificada, en el ámbito internacional, sin territorio propio definido, y en la práctica sin instituciones políticas o sociales propias hasta el último siglo. Generalmente, se conoce al posible etnoestado gitano como «Romanistán».
-
-El idioma romaní tampoco presenta una homogeneidad o extensión que permita hablar de un único idioma transnacional gitano, pues las comunidades romaníes de los distintos países suelen adoptar o adaptar la lengua dominante del territorio en que se encuentran. Los romaníes de todo el mundo presentan diferentes características antropométricas, culturales y sociales que dificultan su categorización bajo una sola familia étnica, por lo que a menudo es difícil obtener datos fiables a partir de un censo común.
-
-
-Tres niños romaníes en la República Checa.
-La población mundial de romaníes y su localización geográfica se desconoce con exactitud. La cifra más aceptada, procedente de datos agregados por países,[89]​ podría rondar los doce millones de individuos, de los cuales diez se concentran en Europa. Algunas fuentes alcanzan hasta un total de cuarenta millones,[90]​ al agregar la supuesta población gitana de la India, lo que demuestra la alta dificultad de obtener datos fiables debido a su diversificación. Adicionalmente, algunos países carecen de un censo fiable de esta comunidad. También se achaca a su movilidad territorial, a la desconfianza hacia las instituciones, al deficiente y problemático planteamiento del recuento[91]​ o a las condiciones socioeconómicas de cada país, también con dificultades para censar a la población no gitana. Por otro lado, la realización de censos de gitanos es en algunos países, por razones de legalidad, imposible, al suponer una forma de discriminación. El último censo oficial completo de gitanos realizado a nivel estatal en España sigue siendo, por tanto, de fines del siglo XVIII, en concreto del año 1783.[92]​
-
-El país con mayor número de gitanos del mundo es Turquía, en donde vivirían entre 2 y 5 millones.
-
-España
-Datos estadísticos en España
-Comunidad Autónoma	Población
-Andalucía	280 000
-Cataluña	80 000
-Comunidad Valenciana	65 000
-Comunidad de Madrid	60 000
-Castilla y León	29 000
-Aragón	21 000
-Región de Murcia	20 000
-Castilla-La Mancha	20 000
-Extremadura	15 000
-Baleares	13 000
-País Vasco	13 000
-Asturias	10 000
-Canarias	9500
-Galicia	9000
-La Rioja	7000
-Navarra	6000
-Cantabria	5000
-Ceuta	600
-Total[93]​	600 000
-En España, por mandato constitucional no se permite formalmente la discriminación por raza o etnia, por lo que en los censos locales no existe ninguna referencia a los gitanos como tales, lo que impide tener constancia del número exacto de gitanos a través de esa fuente de información. Tradicionalmente se han agrupado importantes comunidades de gitanos en España.[94]​
-
-Por comunidades autónomas, Andalucía cuenta con la mayor población de gitanos con cerca de 300 000, alrededor de un 3,3% del total de la población de la comunidad. Su relevancia allí es tal que en octubre de 1996 el Parlamento de Andalucía declaró el 22 de noviembre Día de los Gitanos de Andalucía. Ese día se conmemora su llegada en 1462 a Andalucía.
-
-
-Flamenco
-Es de destacar que el folclore gitano encontró hace ya muchos años su punto común con el cante de la tierra, dando lugar al arte flamenco. Este goza de una enorme popularidad en el país y es un recurso turístico de primer orden.
-
-«El gitano es lo más elemental, lo más profundo, lo más aristocrático de mi país, lo más representativo de su modo y el que guarda el ascua, la sangre y el alfabeto de la verdad andaluza universal».
-Federico García Lorca
-Tras Andalucía, son Cataluña,[95]​ la Comunidad Valenciana y la Comunidad de Madrid las comunidades donde se concentra la mayor parte de la población gitana.
-
-La inclusión social del pueblo gitano en España continúa siendo un problema endémico. Desde el inicio de la democracia española en 1977, los sucesivos gobiernos democráticos han venido adoptando diversas medidas integradoras con mayor o menor éxito, especialmente en las áreas de servicios sociales y de bienestar, intentando especialmente fomentar su integración y superar los problemas derivados de la pobreza y discriminación. Desde 1983, por ejemplo, el gobierno puso en marcha un programa para promocionar el derecho a la educación que incluía a las comunidades gitanas. En las comunidades autónomas se han desarrollado diferentes planes y programas de desarrollo para superar la desigualdad social y educativa del pueblo gitano.
-
-En Cataluña, desde el Plan Integral del Pueblo Gitano se promociona la superación de la desigualdad educativa específicamente.[96]​
-
-Brasil
-Existen actualmente en América Latina cerca de un millón y medio de gitanos, y más de ochocientos mil viven en Brasil. Muchos ocultan su origen, y otros prefieren afirmar de forma romántica que “mientras haya una estrella en el cielo, habrá gitanos en el mundo”. Ese ocultarse viene de los prejuicios que ha habido contra este pueblo a lo largo de la historia y en los más diversos países.
-
-El primer gitano que llegó a Brasil fue Joao Torres, en 1574, quien había sido expulsado de Portugal. A este le seguirían muchos otros, y a todos les acompañaba el estigma de la persecución de que habían sido objeto en toda Europa. En Brasil se sucederían edictos, leyes y decretos que buscaban controlar a los gitanos: reglamentación profesional, de morada, prohibición del uso de sus trajes típicos y del uso del romanó-kaló; la vieja prohibición de ser gitano.
-
-Durante los siglos XVI y XVII los gitanos fueron extendiéndose por todo Brasil, principalmente por los estados de Río de Janeiro, São Paulo, Bahía, Minas Gerais y Pernambuco. A partir de 1808, con la llegada de la familia real portuguesa, hubo una gran leva de gitanos, que en la corte de Joao VI en Río de Janeiro ejercían como artistas para el entretenimiento de las fiestas del rey, herreros y merinos (oficiales de justicia). Así pues, los gitanos fueron los primeros oficiales de justicia del país, y muchos del grupo Kalón aún ejercen hoy esa profesión en el Fórum de la ciudad de Río de Janeiro.
-
-Hasta entonces solo llegaban a Brasil gitanos venidos de Portugal y, más raramente, de España (los Kalóns). A partir de 1882, con la independencia de Brasil, llegarían los Rom (no ibéricos). La división por grupos que mejor refleja la realidad de la presencia de los gitanos en Brasil es la siguiente:
-
-Rom: - Kalderash: Es el subgrupo más prestigioso de Brasil. Son caldereros y algunos logran ascender económica y profesionalmente.
-Khorakhane: Originarios de Grecia y Turquía.
-Macwaia: Los que más niegan su origen gitano entre los gitanos de Brasil.
-Rudari: Provenientes principalmente de Rumanía.
-Lovara: Están en franco retroceso en Brasil, y se autodefinen como emigrantes italianos.
-Kaló: - Gitanos ibéricos: en Río de Janeiro y São Paulo se identifican como emigrantes portugueses y españoles y en su mayoría son comerciantes, taxistas y, unos pocos, universitarios.
-La situación de los gitanos en Brasil es la misma que en otros países del mundo: prejuicios de los gadye (payos), que comportan a veces pérdidas sucesivas de sus rasgos culturales. Juscelino Kubitscheck de Olivera, uno de los más importantes presidentes del país (1956-1960), nunca reveló su origen gitano.
-
-Los nómadas son minoría en Brasil y se encuentran bastante marginados. Son los que más sufren los prejuicios de la población local donde acampan, pues sus barracas, caballos y ropas los identifican de inmediato como gitanos. Los hombres viven del comercio de caballos y, a veces, del de automóviles viejos, del arreglo de utensilios de cocina y de la artesanía del cobre. Las mujeres viven de la quiromancia: van por las calles ofreciendo su lectura de las líneas de la mano. El brasileño es un pueblo extremadamente místico, debido a la fuerte presencia en su estructura social de afrodescendientes e indígenas, pueblos que cultivan estas prácticas milenarias. Es por esta vía por donde los gitanos encuentran con cierta facilidad la forma de penetrar en la sociedad brasileña.
-
-Muchos de los gitanos que actualmente habitan el territorio brasileño conservan muchas de las tradiciones «romaníes» como la adivinación de la suerte y la vida nómada, al igual que las celebraciones de rituales particulares como las bodas endogámicas o la conmemoración de ciertas festividades.[97]​
-
-Lamentablemente la persecución contra el pueblo gitano ha desembocado en que muchas de las prácticas culturales se hayan extinguido, ocultado o modificado para poder sobrevivir en un país que los ha excluido étnica y culturalmente.[97]​
-
-Los carnavales muy comunes a lo largo y ancho de todo el territorio brasileño son de los pocos espacios en los que el pueblo romaní aún puede expresar sus tradiciones culturales, siendo un momento en que pueden practicar sus bailes y rituales tradicionales, participando activamente en las ferias con la lectura del tarot, celebrando actos simbólicos tradicionales como bodas gitanas y en otros casos menos comunes se han adaptado a la cultura carioca carnavalesca aportando sus propios matices, como es el caso de la denominada «boda del carnaval» en la que un niño de sexo masculino es disfrazado de novia y se simula pintorescamente una boda gitana o la famosa «danza romaní» en donde las mujeres del pueblo desfilan durante los actos de carnaval bailando con sus tradicionales atuendos gitanos.[98]​
-
-Argentina
-Artículo principal: Inmigración gitana en Argentina
-La mayor parte de los primeros gitanos en Argentina emigraron desde los Balcanes, principalmente en la segunda mitad del siglo XIX, y se dividen en dos grandes grupos: "rom" (hablantes de romaní) y "ludár" (hablantes de rumano). Los gitanos del grupo rom llaman "boiás" a los gitanos del grupo ludár; y estos llaman "burbéts" (de gurbetçi - "forastero", en idioma turco) a los gitanos del grupo rom. Viven en diversos lugares del país; se dedican al comercio de artesanías, joyas y automóviles. Muchos viven en ciudades, donde han formado barrios gitanos, y otros viajan a otros países.
-
-México
-Artículo principal: Inmigración gitana en México
-No se conoce con exactitud el número de gitanos que viven en México. La mayoría de ellos se dedica al comercio de telas, automóviles, camiones y joyas, incluyendo mercados públicos como La Lagunilla, en la Ciudad de México. Algunos viven del canto, la danza y leer la buena fortuna (“echar las cartas”).[99]​ Su presencia es significativa en algunas zonas de los Tuxtlas en el Estado de Veracruz, y en Guadalajara y Zapopan, en el Estado de Jalisco. En la última localidad viven más de cincuenta grupos familiares (clanes) gitanos.[100]​[101]​ En la Ciudad de México, la colonia Del Valle es una zona con numerosos residentes de origen romaní. La comunidad tiene en ese barrio un templo cristiano evangélico.
-
-En la vida pública en México se ha destacado Alfonso Mejía-Arias, quien es un músico, escritor y político de origen gitano. Pablo Rafael Luvinoff Arróniz es un patriarca gitano, pastor y activista civil por los derechos de la minoría.[102]​
-
-Las nuevas generaciones de gitanos mexicanos intentan mostrarse como parte de la diversidad cultural de este país. En tal esfuerzo por salir de la invisibilidad se ha publicado el libro La lumea de noi. Memoria de los ludar de México (2001), bajo la coordinación de Ricardo Pérez.[103]​ En la obra se plasma la memoria histórica y la vida cotidiana de los ludar. En él se habla del papel que han cumplido como pioneros del cine ambulante en México,[104]​ y se intenta reforzar la integración de la diversidad de los grupos romaníes a la sociedad mexicana. Además, se afirma que la mala fama causada por negocios sucios de algunos gitanos afecta a toda la comunidad por generalizaciones injustificables.[105]​
-
-Chile
-
-Niños gitanos en Antofagasta
-En Chile viven algunos miles de gitanos hablan romaní balcánico[106]​ y castellano y cuyos antepasados arribaron a ese país desde los Balcanes en el siglo XIX. Además, en la capital del país habita un pequeño grupo conocido como lúdar o boiás), que habla una forma particular de rumano.[107]​[108]​
-
-Así como se utiliza la locución «español chileno» para señalar las características peculiares del español hablado por los chilenos, también se habla de un español romaneizado.
-
-Dentro del grupo rom se pueden distinguir algunos subgrupos, los cuales tienen ciertos rasgos generalizadores, pero se encuentran fuertemente vinculados por costumbres y por sangre, por lo que es difícil establecer límites entre ellos. Algunos de estos subgrupos son los "káwicis", "koriánura", "invasórure", "cikaréstis", "badunícura", "khañárias", etc. Los gitanos rom de Chile llaman a los gitanos de Perú leási (desde lǎieşi, otro nombre por el grupo romaní kalderash) y estos a los gitanos de Chile xoraxané o xoraxái.
-
-Colombia
-Artículo principal: Inmigración gitana en Colombia
-
-Distribución romaní en Colombia.
-El número de gitanos en Colombia no está claro y las estimaciones varían entre 5000[109]​ y 79 000.[110]​ Fueron reconocidos como grupo étnico colombiano mediante la Resolución n.º 022 del 2 de septiembre de 1999, expedida por la Dirección General de Etnias del Ministerio del Interior y de Justicia y luego por el decreto 2957 de 2010 que concretó el reconocimiento de sus derechos.[111]​ Son una población principalmente urbana, y se encuentran distribuidos en kumpanias, que son “unidades variables de corresidencia y cocirculación que se asientan en barrios o se dispersan por familias entre las casas de los habitantes no gitanos en los sectores populares de las ciudades, y en segundo lugar en grupos familiares de tamaño variable que de todas maneras mantienen vínculos culturales y sociales con alguna de las kumpanias”. Se localizan principalmente en los departamentos de Atlántico, Bolívar, Norte de Santander, Santander, Valle del Cauca, Nariño y Bogotá. Se cree que los primeros en llegar al territorio procedentes de España lo hicieron en tiempos coloniales, siendo conocidos como "egipcios".
-
-Hungría
-Si se considera a los gitanos (roma, sinti, manushes, calós) como un pueblo europeo con presencia atestiguada en el continente desde hace casi un milenio que, sin embargo, carece de Estado propio, cuyos representantes están en minoría en todas partes y, en general, viven en la marginalidad, resulta indiferente si su “patria primitiva” se hallaba en la India o en Egipto. Hasta finales del siglo XVIII las sociedades europeas estaban convencidas de que los gitanos provenían de Egipto (prueba de ello son las denominaciones que utilizan algunos pueblos de la Europa occidental: en francés se dice gitans; en español, gitanos; y en inglés, gipsy o gypsy). Solo en 1774 formuló el pastor protestante húngaro István Vályi, que había estudiado en la Universidad de Leiden, donde descubrió que las lenguas gitanas por él conocidas se parecían a las lenguas de los estudiantes malabares, que los antepasados de los gitanos debían de proceder de la India.
-
-El nombre húngaro cigány viene del griego ατσινγάνος (atsingános), que significa “incomprensible”. Supuestamente se refería a una comunidad religiosa pagana o hereje con cuyos miembros les estaba prohibido relacionarse a los cristianos. No está científicamente probado si los gitanos tenían realmente algo que ver con dicha comunidad; en cualquier caso, en el siglo XI se identificaba a los gitanos con ellos. La expresión se ha introducido en más de un idioma europeo, lo que queda reflejado en palabras como la eslava meridional cigani, la rumana ţigani, la checa cikáni, la alemana zigeuner, la francesa tsiganes, la italiana zingari, la portuguesa ciganos o la española zincalí. Con diferentes formas, esta palabra se ha convertido en una de las denominaciones de los gitanos más difundidas en todo el mundo. La mayoría de los gitanos también se ha identificado con este término.
-
-Según datos de un estudio sociológico de 2003 y 2004, se estima el número de gitanos húngaros entre 550.000 y 600.000.[112]​ No obstante, esta cifra no indica el número de los que se identifican, expresa o tácitamente, como gitanos, sino que comprende a aquellos a los que la mayoría o las diferentes instituciones consideran gitanos. Al contrario de esos datos, en el censo de población de 2001 tan solo 194.000 personas se declararo</description>
-      <guid isPermaLink="false">FCB16F52-EBA6-4A4D-9391-011FFD3BDE81</guid>
-      <pubDate>Sun, 27 Apr 2025 09:18:57 GMT</pubDate>
+      <title>Pueblos Nahuas</title>
+      <link>http://www.pueblosmundo.com/nahuas</link>
+      <description>Los nahuas ( / ˈnɑːwɑːz / NAH -wahz [ 1 ] ) son una etnia uto -nahua y uno de los pueblos indígenas de México , con minorías nahuas también en El Salvador , Guatemala , Honduras , Nicaragua y Costa Rica . [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ] Constituyen el grupo indígena más grande de México, [ 8 ] [ 9 ] así como la población más grande de cualquier grupo indígena de América del Norte que son hablantes nativos de su respectiva lengua indígena . Entre los nahuas, este es el náhuatl . Cuando se clasifica entre todas las lenguas indígenas de América , los nahuas aparecen en tercer lugar después de los hablantes de guaraní y quechua . [ 10 ]</description>
+      <category>Cultura</category>
+      <guid isPermaLink="false">BE4F1AE0-584E-4610-9130-0D12EBC1AACA</guid>
+      <pubDate>Sun, 27 Apr 2025 17:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pueblos germánicos</title>
+      <link>http://www.pueblosmundo.com/germanos</link>
+      <description>Los pueblos germánicos o germanos son un histórico grupo etnolingüístico de los pueblos originarios del norte de Europa que se identifican por el uso de las lenguas germánicas (un subgrupo de la familia lingüística indoeuropea que se diversificaron a partir de una lengua original —reconstruible como idioma protogermánico— en el transcurso de la Edad del Hierro). En términos historiográficos son tanto un grupo de entre los pueblos prerromanos (en las zonas germanas al oeste del Rin —provincias de Germania Superior e Inferior— en que se estableció una fuerte presencia del Imperio romano y fueron romanizados) como un grupo de pueblos bárbaros (exteriores al limes del Imperio), situados al este del Rin y al norte del Danubio (Germania Magna); precisamente el que protagonizó las denominadas invasiones germánicas que provocaron la caída del Imperio romano de Occidente al instalarse en amplias zonas de este: suevos, vándalos, godos (visigodos y ostrogodos), francos, burgundios, turingios, alamanes, anglos, sajones, jutos, hérulos, rugios, lombardos, catos, téncteros, etcétera. Los vikingos protagonizaron posteriormente una nueva oleada expansiva desde Escandinavia (la zona originaria de todo este grupo de pueblos), que afectó a las costas atlánticas (normandos) y a las estepas rusas y Bizancio (varegos).</description>
+      <category>Cultura</category>
+      <guid isPermaLink="false">BA51C14B-7FB7-428F-A587-47A168E3430C</guid>
+      <pubDate>Sun, 27 Apr 2025 17:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uigures</title>
+      <link>http://www.pueblosmundo.com/siculos</link>
+      <description>Los uigures, uygures o uighures (en chino tradicional, 維吾爾族; en chino simplificado, 维吾尔族; pinyin, Wéiwú'ěr zú; en uigur: ئۇيغۇر; en turco: Uygur) son un grupo étnico que vive en Asia Central, principalmente en la Región Autónoma Uigur de Sinkiang del noroeste de la República Popular China, así como en Kazajistán, Kirguistán y Uzbekistán. Otro grupo habita en la zona de Hunan. Son uno de los 56 grupos étnicos reconocidos oficialmente por el gobierno chino.[3]</description>
+      <category>Cultura</category>
+      <guid isPermaLink="false">85F354E1-5A54-4F66-AC24-C8798FA661D2</guid>
+      <pubDate>Sun, 27 Apr 2025 17:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pais Siculo</title>
+      <link>http://www.pueblosmundo.com/siculos</link>
+      <description>Los sículos (en húngaro: székely) son un subgrupo húngaro, que en torno al siglo VIII, ocupó las tierras del sureste de Hungría. Mayoritariamente viven en Transilvania, en el País Sículo (en húngaro: Székelyföld, en rumano: Ținutul Secuiesc). Otros grupos de origen sículo dejaron Transilvania en 1764 después de la “tragedia de Siculeni” y emigraron a Bucovina.</description>
+      <category>Cultura</category>
+      <guid isPermaLink="false">2A4F7556-C6B7-42B6-B808-7D36B7BAE970</guid>
+      <pubDate>Sun, 27 Apr 2025 17:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pueblo Gitano</title>
+      <link>http://www.pueblosmundo.com/gitano</link>
+      <description>Descubre las raíces culturales y tradiciones únicas</description>
+      <category>Cultura</category>
+      <guid isPermaLink="false">DFB85EE9-CBF5-4DF6-B6FC-EBD160F86656</guid>
+      <pubDate>Sun, 27 Apr 2025 17:06:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
