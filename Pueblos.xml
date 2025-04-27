@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="estilos.css"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://github.com/PepeJEJEJ/Webmia/blob/main/estilos.css" type="text/css"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Pueblos del mundo</title>
-    <link>http://www.puebloz.mundo.com</link>
-    <description>Los pueblos variados del mundo</description>
+    <link>http://www.pueblosmundo.com</link>
+    <description>Explorando comunidades fascinantes</description>
     <atom:link href="http://www.puebloz.mundo.com/pueblos.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
     <copyright>CC BY-SA 3.0</copyright>
     <pubDate>Fri, 25 Apr 2025 18:38:42 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Apr 2025 16:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 16:42:29 GMT</lastBuildDate>
     <category domain="http://www.puebloz.mundo.com">Web</category>
     <generator>Absolute RSS Editor</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
